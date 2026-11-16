@@ -1,0 +1,10 @@
+.venv/
+.agents/
+.claude/
+private/
+reports/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+HUONG_DAN*.md
